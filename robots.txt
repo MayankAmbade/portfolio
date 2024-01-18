@@ -1,0 +1,126 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+<img src='./Images/devloper.png' alt='devloper-image' width="100%" height="100%"/>
+
+
+ <div className='row'>
+       <div className='col-lg-12 col-md-12 col-sm-12'>
+         <img src='./Images/devlopment.jpg' width="100%" height="100%" alt='devlopment'/>
+       </div>
+      </div>
+
+
+
+nav bar //////////////////////////////
+
+
+<nav class="navbar navbar-expand-lg navbar-light  p-3"> 
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">DBook Inc</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+  
+      <div class=" collapse navbar-collapse" id="navbarNavDropdown">
+        <ul class="navbar-nav ms-auto ">
+          <li class="nav-item">
+            <a class="nav-link mx-2 active" aria-current="page" href="#">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-2" href="#">Products</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link mx-2" href="#">Pricing</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link mx-2 dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Company
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+              <li><a class="dropdown-item" href="#">Blog</a></li>
+              <li><a class="dropdown-item" href="#">About Us</a></li>
+              <li><a class="dropdown-item" href="#">Contact us</a></li>
+            </ul>
+          </li>
+        </ul>
+        <ul class="navbar-nav ms-auto d-none d-lg-inline-flex">
+          <li class="nav-item mx-2">
+            <a class="nav-link text-dark h5" href="" target="blank"><i class="fab fa-google-plus-square"></i></a>
+          </li>
+          <li class="nav-item mx-2">
+            <a class="nav-link text-dark h5" href="" target="blank"><i class="fab fa-twitter"></i></a>
+          </li>
+          <li class="nav-item mx-2">
+            <a class="nav-link text-dark h5" href="" target="blank"><i class="fab fa-facebook-square"></i></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+
+
+  home /////////////////
+
+  <div className="row ">
+          <div className="col-lg-12 col-md-12 col-sm-12  p-4 d-flex justify-content-center align-items-center flex-column">
+            <p className=" font-bolder">
+              <img
+                src="./Images/icons8-waving-hand-emoji-48.png"
+                width="25px"
+              />{" "}
+              Hi , my name is Mayank Ambade and i am softwere devloper
+            </p>
+            <h1 className="home-header" data-aos="fade-left"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="900" >WebDevloper</h1>
+            <h2 className="home-header-two" 
+            data-aos="fade-right"
+            data-aos-anchor="#example-anchor"
+            data-aos-offset="500"
+            data-aos-duration="500"
+            >&FullStackDevloper</h2>
+          </div>
+          <div className="row ">
+            <div className="col-lg-6  p-2 d-flex justify-content-center">
+              <h6 className="base-colur small-para">
+                Based in India , live in Nagpur
+              </h6>
+            </div>
+            <div className="col-lg-6 p-2"></div>
+          </div>
+          <div className="col-lg-12 col-md-12 col-sm-12 mt-2  p-2 devloper-images d-flex justify-content-center align-items-center flex-column">
+            <div className="  p-2">
+              <img src="./Images/devloper.png" alt="devloper-image" className="devloper-image" />
+            </div>
+          </div>
+          <div className="p-4 ms-1 button-collection  row d-flex justify-content-center  plate">
+            <div className=" p-1 d-flex justify-content-center align-items-center"><button className="home-button fs-4 font-bold">Contact</button><span><button className="home-button-one">  <img src="./Images/icons8-arrow-50 (2).png" alt="devloper-image" width="35px" height="35px" /></button></span></div>
+          </div>
+        </div>
+
+
+
+
+        image /////
+
+         <div className="col-lg-12 pt-4 col-md-12 col-sm-12 mt-2 devloper-images d-flex justify-content-center  align-items-center flex-column">
+            <div className=" d-flex justify-content-center align-items-center  pt-3">
+              <img
+                src="./Images/wallpaperflare-cropped-removebg.png"
+                alt="devloper-image"
+                className="devloper-image"
+              />
+            </div>
+          </div>
+
+
+
+          Hellow I'm Mayank Ambade , a dadicated and versataile hybrid devloper based in India. with over 1.5 more 
+          year of experience : Understand the principles of cross-platform development to create applications that work seamlessly on multiple platforms (iOS, Android, and possibly others).
+          Have a strong foundation in web technologies such as HTML, CSS, and JavaScript. Familiarity with modern JavaScript frameworks like React  can be beneficial.
+           Learn and master hybrid mobile app frameworks like React Native, 
+           Have a good sense of UI/UX design principles. This includes designing interfaces that are intuitive, responsive, and provide a positive user experience across different devices.
+           Be aware of security best practices for both web and mobile development. This includes securing data transmission, handling user authentication, and protecting against common security vulnerabilities
